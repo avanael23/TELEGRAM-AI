@@ -19,7 +19,9 @@
 
 #### Don't Ever Reveal/Expose Your Telegram Bot Token In Here ( Github ), Only Use Your Token At Run Time In Deploy Platform.
 
-----
+
+-------
+
 
 **Set The Env Vars**
     <br>
@@ -34,27 +36,28 @@
 | PREFIX | put any one symbol here except @,# and + , leave it Blank if you want to use multi prefix |
 | BOT_TOKEN | Your Telegram Bot Token| 
 
-<br>
-----
+
+------
+
 
 ## Deployment Options
 
-### **Fork & Star the Repository**
+### Fork & Star the Repository
    - Start by forking this repository and giving it a ⭐ to support GlobalTechInfo!
      To set up the TELEGRAM AI quickly, first fork this repository:
 [![TELEGRAM AI Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/GlobalTechInfo/TELEGRAM-AI/fork)
 
-### ** TELEGRAM BOT TOKEN**
+### TELEGRAM BOT TOKEN
    - Visit the given site to get a Bot Token.
 
-     [![TELEGRAM AI Github Repo](https://img.shields.io/badge/BOT%20TOKEN-green?style=for-the-badge&logo=telegram)](https://t.me/BotFather)
+     [![TELEGRAM AI Github Repo](https://img.shields.io/badge/BOT%20TOKEN-black?style=for-the-badge&logo=telegram)](https://t.me/BotFather)
      
-### ** TELEGRAM USER ID**
+### TELEGRAM USER ID
    - Visit the given site to get User Id.
 
      [![TELEGRAM AI Github Repo](https://img.shields.io/badge/OWNER%20ID-blue?style=for-the-badge&logo=telegram)](https://t.me/useridinfobot)
 
-### **Step-by-Step Deployment Guide**
+### Step-by-Step Deployment Guide
 
 **Option A: Deploy In Heroku**
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
@@ -81,7 +84,7 @@
       <img alt='Deploy In Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
    </a>
    
-   **Option F: Deploy In Replit**
+   **Option D: Deploy In Replit**
 1. [Create an Account on Replit](https://repl.it) if you don’t have one.
 2. Click the button below to deploy using Replit:
    <br>
@@ -89,7 +92,7 @@
       <img alt='Deploy In Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
    
-    **Option G: Deploy In Panel**
+    **Option E: Deploy In Panel**
  1. First You Have to Sign up on discord using web or app then click below.
 2. [Sign Up In Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
 4. Click the button below to deploy using Panel:
