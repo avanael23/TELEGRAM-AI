@@ -258,6 +258,11 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 - **STAR ⭐ THE REPO IF YOU LIKE TELEGRAM-AI**
 
+## OTHER PROJECTS:
+- [MEGA-AI](https://github.com/GlobalTechInfo/MEGA-AI)
+- [PAIRING WEB](https://github.com/GlobalTechInfo/WEB-PAIR-QR)
+
+
 
 ## Credits
 
